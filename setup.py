@@ -19,6 +19,7 @@ setup(
     url='https://github.com/maumaugithub/purple-lemon-base',
     install_requires=[
         "dataclasses",
+        "more-itertools>=10.5",
         "python-semantic-release"
     ],
     extras_require={  

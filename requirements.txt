@@ -1,3 +1,4 @@
-pytest
-setuptools
-build
+pytest>=8.3
+#setuptools>=75.5
+build>=1.2.2
+more-itertools>=10.5
